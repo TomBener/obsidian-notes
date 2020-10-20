@@ -1,0 +1,19 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "daily-notes": false,
+    "slides": true,
+    "random-note": true,
+    "custom-css": true,
+    "page-preview": true
+  },
+  "promptDelete": false
+}

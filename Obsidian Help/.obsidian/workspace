@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "7b941bc252f400f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dcf765597f23b97",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16a8a7c14e7ae30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a22adb670f18d84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66412ab91687e58d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4557c2fc43cd875d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198
+  },
+  "right": {
+    "id": "563a20188bff9fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8f566d1e7a6314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a89f68f808ae5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Start here.md",
+    "How to/Importing data.md",
+    "Plugins/Markdown format converter.md",
+    "Advanced Use/Insider Builds.md",
+    "Obsidian.md",
+    "Plugins/Page preview.md",
+    "How to/Internal link.md",
+    "How to/Folding.md",
+    "Plugins/Graph view.md",
+    "Plugins/Audio recorder.md"
+  ]
+}

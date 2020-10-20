@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "553f86f6e2abcacc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab671f7102a946b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Help/Start here.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0acb819b838fcc80",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1026f1b7ddf13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ebedace43a2459",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f71a5c3ae0bb8c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "792698fbcd7922b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e657bc75395916e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dcad5d85152ada",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Help/Start here.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Obsidian Help/Start here.md",
+    "ho2013-zotero.md",
+    "Obsidian Help/Obsidian.md",
+    "ho2013.md",
+    "Peter Ho.md",
+    "Obsidian Help/How to/Working with Backlinks.md",
+    "Obsidian Help/How to/Work with Tags.md",
+    "Obsidian Help/How to/Work with multiple cursors.md",
+    "Obsidian Help/Accepted file formats.md",
+    "高级土地管理学.md"
+  ]
+}
