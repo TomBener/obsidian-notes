@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0ab671f7102a946b",
+        "id": "3a757318ff27d9a7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian Help/Start here.md",
+            "file": "sa2020.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Help/Start here.md"
+                "file": "sa2020.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "sa2020.md",
+    "高级土地管理学.md",
+    "Land Use Policy.md",
+    "高级土地管理学/sa2020.md",
     "Obsidian Help/Start here.md",
     "ho2013-zotero.md",
     "Obsidian Help/Obsidian.md",
     "ho2013.md",
     "Peter Ho.md",
-    "Obsidian Help/How to/Working with Backlinks.md",
-    "Obsidian Help/How to/Work with Tags.md",
-    "Obsidian Help/How to/Work with multiple cursors.md",
-    "Obsidian Help/Accepted file formats.md",
-    "高级土地管理学.md"
+    "Obsidian Help/How to/Working with Backlinks.md"
   ]
 }
