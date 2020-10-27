@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "241cb81e67a11702",
+        "id": "7d2e1a323cbd5d60",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "huang2014.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "huang2014.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -76,15 +71,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "sa2020.md",
     "huang2014.md",
     "janssen2006.md",
-    "sa2020.md",
-    "Land Use Policy.md",
     "高级土地管理学.md",
+    "Obsidian Help/How to/Work with multiple cursors.md",
+    "Land Use Policy.md",
     "Obsidian Help/How to/Working with Backlinks.md",
     "Obsidian Help/How to/Basic Note Taking.md",
     "Obsidian Help/How to/Format your notes.md",
-    "huang2014-metadata-highlights.md",
-    "谭荣.md"
+    "huang2014-metadata-highlights.md"
   ]
 }

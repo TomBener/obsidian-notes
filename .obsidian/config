@@ -16,5 +16,6 @@
     "page-preview": true
   },
   "promptDelete": false,
-  "attachmentFolderPath": "/images"
+  "attachmentFolderPath": "/images",
+  "enabledPlugins": []
 }
