@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "sa2020.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "sa2020.md"
+              }
             }
           }
         ]
@@ -72,14 +77,14 @@
   },
   "lastOpenFiles": [
     "sa2020.md",
-    "huang2014.md",
+    "README.md",
     "janssen2006.md",
+    "huang2014.md",
     "高级土地管理学.md",
     "Obsidian Help/How to/Work with multiple cursors.md",
     "Land Use Policy.md",
     "Obsidian Help/How to/Working with Backlinks.md",
     "Obsidian Help/How to/Basic Note Taking.md",
-    "Obsidian Help/How to/Format your notes.md",
-    "huang2014-metadata-highlights.md"
+    "Obsidian Help/How to/Format your notes.md"
   ]
 }
