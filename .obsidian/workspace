@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7d2e1a323cbd5d60",
+        "id": "0046c70c22ea06b4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sa2020.md",
-            "mode": "source"
+            "file": "Obsidian Help/Accepted file formats.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "export"
+                "query": "export",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sa2020.md"
+                "file": "Obsidian Help/Accepted file formats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "sa2020.md",
-    "README.md",
-    "janssen2006.md",
+    "Obsidian Help/Accepted file formats.md",
+    "Obsidian Help/How to/Format your notes.md",
+    "Obsidian Help/Obsidian.md",
+    "Obsidian Help/Start here.md",
+    "Obsidian Help/Plugins/List of plugins.md",
+    "Obsidian Help/Advanced Use/Deleting Files.md",
+    "Zotero Import.md",
     "huang2014.md",
-    "高级土地管理学.md",
-    "Obsidian Help/How to/Work with multiple cursors.md",
-    "Land Use Policy.md",
-    "Obsidian Help/How to/Working with Backlinks.md",
-    "Obsidian Help/How to/Basic Note Taking.md",
-    "Obsidian Help/How to/Format your notes.md"
+    "sa2020.md",
+    "README.md"
   ]
 }
